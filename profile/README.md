@@ -1,4 +1,7 @@
 # Microservices-Demo-Projects 
+
+This organization is created to explore the various microservice architectures and cross cutting conecens by creating proof of concept or prototype/demo applications.
+
 ## Table of Contents
 
 1. **Centralized Configuration Management/Updates**
@@ -26,7 +29,7 @@
    - [X] **[Spring Websocket - STOMP](https://github.com/sriram-ponangi/Spring-Boot-Microservices-Demo-Projects/tree/master/l.\)%20Web%20Sockets)**
 
 10. **SOAP API**
-   - [X] **[SOAP Client](https://github.com/sriram-ponangi/Spring-Boot-Microservices-Demo-Projects/tree/master/m.\)%20SOAP "readme")**
+    - [X] **[SOAP Client](https://github.com/sriram-ponangi/Spring-Boot-Microservices-Demo-Projects/tree/master/m.\)%20SOAP "readme")**
 
 
 11. **Server Sent Events**

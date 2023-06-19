@@ -11,9 +11,10 @@ This organization is created to explore the various **microservice architectures
 5. **API Authentication and Authorization**
 6. **TLS and mTLS**
 7. **Circuit Breaker**
-8. **Logging and Distributed Tracing**
-9. **Event Driven Services - Messaging Queues**
-10. **Web Sockets**
-11. **SOAP API**
-12. **Server Sent Events**
-13. **Reactive Streams (Non blocking & No back pressure)**
+8. **Leader Election**
+9. **Logging and Distributed Tracing**
+10. **Event Driven Services - Messaging Queues**
+11. **Web Sockets**
+12. **SOAP API**
+13. **Server Sent Events**
+14. **Reactive Streams (Non blocking & No back pressure)**

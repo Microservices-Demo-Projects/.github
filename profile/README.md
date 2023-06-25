@@ -4,7 +4,7 @@ This organization is created to explore the various **microservice architectures
 
 ## Table of Contents
 
-1. **[Centralized Configuration Management/Updates](https://github.com/Microservices-Demo-Projects/Spring-Cloud-Config-Server-Demo  "readme")** :heavy_check_mark:
+1. **[Configuration Management/Updates](https://github.com/Microservices-Demo-Projects/Spring-Cloud-Config-Server-Demo  "readme")** :heavy_check_mark:
 2. **Service Discovery and Registry**
 3. **API Gateway / Reverse Proxy**
 4. **Databases and Caching (I/O)**

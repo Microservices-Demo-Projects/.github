@@ -8,18 +8,24 @@ This organization explores the various **microservice architectures** and **cros
     - **Demo-1**: External Property Management and Dynamic Refresh with Kubernetes Config Map :heavy_check_mark:
     - **Demo-2**: Secrets Management with Dynamic Secret Generation and Dynamic Secrets Refresh with Hashicorp Vault.
 
+2. **Securing Microservice**
+   - **Network Policies (Whitelisting and Blacklisting)**
+   - **mTLS**
+   - **OAuth(Client Credentials Flow and Authorization Code Flow - PKCE)**
+   - **Rate Limiting**
+   - **Resilience (Circuit Breaking)**
 
+3. **Logging and Distributed Tracing**
 
-2. **Service Discovery and Registry**
-3. **API Gateway / Reverse Proxy**
 4. **Databases and Caching (I/O)**
-5. **API Authentication and Authorization**
-6. **TLS and mTLS**
-7. **Circuit Breaker**
-8. **Leader Election**
-9. **Logging and Distributed Tracing**
-10. **Event Driven Services - Messaging Queues**
-11. **Web Sockets**
-12. **SOAP API**
-13. **Server-Sent Events**
-14. **Reactive Streams (Non blocking & No back pressure)**
+
+5. **Event Driven Services - Messaging Queues**
+   
+6. **Leader Election with Kubernetes**
+
+7. **Desing APIs**
+    - **Web Sockets**
+    - **Server-Sent Events**
+    - **Reactive Streams (Non blocking & No back pressure)**
+    - **gRPC (Protocol Buffers)**
+    - **GraphQL**

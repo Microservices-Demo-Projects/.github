@@ -5,8 +5,8 @@ This organization explores the various **microservice architectures** and **cros
 ## Table of Contents
 
 1. **[Configuration Management and Updates](https://github.com/Microservices-Demo-Projects/Configuration-Management-And-Updates  "readme")** 
-    - Demo-1: External Property Management and Dynamic Refresh with Kubernetes Config Map :heavy_check_mark:
-    - Demo-2: Secrets Management with Dynamic Secret Generation and Dynamic Secrets Refresh with Hashicorp Vault.
+    - **Demo-1**: External Property Management and Dynamic Refresh with Kubernetes Config Map :heavy_check_mark:
+    - **Demo-2**: Secrets Management with Dynamic Secret Generation and Dynamic Secrets Refresh with Hashicorp Vault.
 
 
 

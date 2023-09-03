@@ -8,7 +8,7 @@ This organization explores the various **microservice architectures** and **cros
     - **Demo-1**: External Property Management and Dynamic Refresh with Kubernetes Config Map :heavy_check_mark:
     - **Demo-2**: Secrets Management with Dynamic Secret Generation and Dynamic Secrets Refresh with Hashicorp Vault.
 
-2. **Securing Microservice**
+2. **Securing Microservice APIs**
    - **Network Policies (Whitelisting and Blacklisting)**
    - **mTLS**
    - **OAuth(Client Credentials Flow and Authorization Code Flow - PKCE)**

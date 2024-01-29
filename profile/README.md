@@ -8,14 +8,14 @@ This organization explores the various **microservice architectures** and **cros
     - **Demo-1**: External Property Management and Dynamic Refresh with Kubernetes Config Map :heavy_check_mark:
     - **Demo-2**: Secrets Management with Dynamic Secret Generation and Dynamic Secrets Refresh with Hashicorp Vault.
 
-2. **Securing Microservice APIs**
-   - **Network Policies (Whitelisting and Blacklisting)**
+2. **[Logging and Distributed Tracing](https://github.com/Microservices-Demo-Projects/logging-and-distributed-tracing)** :heavy_check_mark:
+   
+3. **Securing Microservice APIs**
+   - **Network Policies (AllowList and DenyList)**
    - **mTLS**
    - **OAuth(Client Credentials Flow and Authorization Code Flow - PKCE)**
    - **Rate Limiting**
    - **Resilience (Circuit Breaking)**
-
-3. **Logging and Distributed Tracing**
 
 4. **Databases and Caching (I/O)**
 

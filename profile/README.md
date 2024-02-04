@@ -13,14 +13,13 @@ This organization explores the various **microservice architectures** and **cros
 ### 3. **[Monitoring Application Metrics](https://github.com/Microservices-Demo-Projects/microservices-metrics-and-monitoring)**
    
 ### 4. **Securing Microservice APIs**
-**This can be split into two categories:**
-4.1. **Cross-cutting concerns that are better handled with generic tools/solutions without modifying the application code such as:**
-    - **Network Policies (AllowList and DenyList)**
-    - **mTLS**
-    - **OAuth(Client Credentials Flow and Authorization Code Flow - PKCE)**
-    - **Rate Limiting**
-4.2. **The domain-specific solutions that require the application code changes such as:**
-   - **Resilience (Circuit Breaking)**
+#### 4.1. Cross-cutting concerns that are better handled with generic tools/solutions without modifying the application code such as:
+- **Network Policies (AllowList and DenyList)**
+- **mTLS**
+- **OAuth(Client Credentials Flow and Authorization Code Flow - PKCE)**
+- **Rate Limiting**
+#### 4.2 The domain-specific solutions that require the application code changes such as:
+- **Resilience (Circuit Breaking)**
 
 ### 5. **Databases and Caching (I/O)**
 

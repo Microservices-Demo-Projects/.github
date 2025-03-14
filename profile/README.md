@@ -71,13 +71,3 @@ This organization explores the various **microservice architectures** and **cros
 - **Server-Sent Events (SSE) & WebSockets**: Real-time bidirectional communication.
 - **API Gateway Implementation**: Istio Ingress Gateway or Kubernetes Gateway API.
 
-
-   
-### 7. **Leader Election with Kubernetes**
-
-### 8. **Types of APIs**
-- **Web Sockets**
-- **Server-Sent Events**
-- **Reactive Streams (Non blocking & No back pressure)**
-- **gRPC (Protocol Buffers)**
-- **GraphQL**
